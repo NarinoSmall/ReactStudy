@@ -1,3 +1,7 @@
 export default function Footer() {
-	return <footer>フッタ</footer>;
+	return (
+		<footer className="bg-blue text-xl text-neutral p-3">
+			<div>フッタ</div>
+		</footer>
+	);
 }

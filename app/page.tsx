@@ -1,4 +1,3 @@
-import Rootlayout from "./layout";
 export default function Home() {
-	return <Rootlayout>AAAAAAAAAAAAAAA</Rootlayout>;
+	return <main className="bg-neutral">AAAAAAAAAAAAAAA</main>;
 }
